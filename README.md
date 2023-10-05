@@ -1,4 +1,4 @@
-# Blackcoffer
+# Web Data Sentiment Analyzer
 
 ## Overview
 
@@ -66,10 +66,6 @@ To use this project, follow these steps:
 - [Pandas](https://pandas.pydata.org/)
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 - [NLTK](https://www.nltk.org/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
